@@ -1,0 +1,54 @@
+#  Salmon:
+#  Sheep:
+#  Shulker:
+#  Silverfish:
+#  Skeleton:
+#  Skeleton_Horse:
+#  Slime:
+#  Snow_Golem:
+#  Spider:
+#  Squid:
+#  Stray:
+#  Trader_Llama:
+#  Tropical_Fish:
+#  Turtle:
+#  Vex:
+#  Villager:
+#  Vindicator:
+#  Wandering_Trader:
+#  Witch:
+#  Wither:
+#  Wither_Skeleton:
+#  Wolf:
+#  Zombie:
+#  Zombie_Horse:
+#  Zombie_PigMan:
+#  Zombie_Villager:
+QuaiNhiGiai1:
+  Type: Zombie_Villager
+  Display: '&a&l&n[Quái Nhị Giai]&9&l Kị Sĩ Xương'
+  Health: 900
+  Armor: 50
+  Mount: Wither_Skeleton
+  Equipment:
+  - Cung1:0
+  - Giap1:4
+  - Giap2:3
+  - Giap3:2
+  - Giap4:1
+  Drops:
+  - Exp 20000
+  - Money 100;200
+  - LoiQuai2 1 0.9
+  Modules:
+    ThreatTable: true
+  Skills:
+  - message{cooldown=20;m="<&a&l&n[Quái Nhị Giai]&9&l Kị Sĩ Xương> &f&Kẻ thù của ta, ngươi đã trở lại và chiến đấu với ta sao!"}
+    @PlayersInRadius{r=20} ~startCombat >5 0.2
+  - message{m="<&a&l&n[Quái Nhị Giai]&9&l Kị Sĩ Xương> &f&l Những con gà xã hội thì không nên sống làm j cho xã hội cho nó chật đất"} @PlayersInRadius{r=40}
+    ~onPlayerKill <60 0.2
+  - skill{s=SummonVex} @Self 0.7
+  Options:
+    MovementSpeed: 0.4
+    AlwaysShowName: true
+    PreventOtherDrops: true
