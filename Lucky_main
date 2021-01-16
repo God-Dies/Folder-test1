@@ -1,0 +1,394 @@
+Lucky:
+#  Allium:
+#  Anvil:
+#  Apple:
+#  Armor_Stand:
+#  Arrow:
+#  Arrow_(Spectral):
+#  Arrow_of_Fire_Resistance:
+#  Arrow_of_Healing:
+#  Arrow_of_Invisibility:
+#  Arrow_of_Leaping:
+#  Arrow_of_Night Vision:
+#  Arrow_of_Poison:
+#  Arrow_of_Regeneration:
+#  Arrow_of_Slowness:
+#  Arrow_of_Strength:
+#  Arrow_of_Swiftness:
+#  Arrow_of_Weakness:
+#  Arrow_of_Water_Breathing:
+#  Awkward_Potion:
+#  Azure_Bluet:
+#  Baked_Potato:
+#  Banner_(Magenta):
+#  Banner_(White):
+#  Beacon:
+#  Bed:
+#  Beetroot:
+#  Beetroot_Seeds:
+#  Beetroot_Soup:
+#  Blaze_Powder:
+#  Blaze_Rod:
+#  Block_of Redstone:
+#  Blue_Orchid:
+#  Boat:
+#  Bone:
+#  Bone_Meal:
+#  Book:
+#  Book_and_Quill:
+#  Bottle_of_Enchanting:
+#  Bow:
+#  Bowl:
+#  Bread:
+#  Breathing_Splash (2:15):
+#  Breathing_Splash (6:00):
+#  Brewing_Stand:
+#  Brown_Mushroom:
+#  Bucket:
+#  Bucket_(Milk):
+#  Button_(Stone):
+#  Button_(Wood):
+#  Cactus:
+#  Cactus_Green_Dye:
+#  Cake:
+#  Carrot:
+#  Carrot_on_a_Stick:
+#  Cauldron:
+#  Chainmail_Boots:
+#  Chainmail_Chestplate:
+#  Chainmail_Helmet:
+#  Chainmail_Leggings:
+#  Charcoal:
+#  Chest:
+#  Chorus_Fruit:
+#  Chorus_Fruit (Popped):
+#  Clay:
+#  Clay_Brick:
+#  Coal:
+#  Cocoa_Bean:
+#  Cocoa_Plant:
+#  Command_Block:
+#  Compass:
+#  Cooked_Chicken:
+#  Cooked_Fish:
+#  Cooked_Mutton:
+#  Cooked_Porkchop:
+#  Cooked_Rabbit:
+#  Cookie:
+#  Cyan_Dye:
+#  Dandelion:
+#  Dandelion_Yellow_Dye:
+#  Daylight_Sensor:
+#  Dead_Shrub:
+#  Diamond_Axe:
+#  Diamond_Boots:
+#  Diamond_Chestplate:
+#  Diamond_Gem:
+#  Diamond_Helmet:
+#  Diamond_Hoe:
+#  Diamond_Horse_Armor:
+#  Diamond_Leggings:
+#  Diamond_Pickaxe:
+#  Diamond_Shovel:
+#  Diamond_Sword:
+#  Dispenser:
+#  Double_Tallgrass:
+#  Dragon_Egg:
+#  Dragon's_Breath:
+#  Dropper:
+#  Egg:
+#  Elytra:
+#  Emerald:
+#  Empty_Map:
+#  Enchanted_Book:
+#  Enchanted_Golden_Apple:
+#  Enchantment_Table:
+#  End_Crystal:
+#  End_Gateway:
+#  Ender_Chest:
+#  Ender_Pearl:
+#  Exploration_Map:
+#  Eye_of_Ender:
+#  Feather:
+#  Fence_Gate_(Oak):
+#  Fermented_Spider_Eye:
+#  Fire_Charge:
+#  Firework_Rocket:
+#  Firework_Star:
+#  Fishing_Rod:
+#  Flint:
+#  Flint_and_Steel:
+#  Flower_Pot:
+#  Furnace:
+#  Ghast_Tear:
+#  Glass_Bottle:
+#  Glistering_Melon (Slice):
+#  Glowstone_Dust:
+#  Gold_Axe:
+#  Gold_Boots:
+#  Gold_Chestplate:
+#  Gold_Helmet:
+#  Gold_Hoe:
+#  Gold_Horse Armor:
+#  Gold_Ingot:
+#  Gold_Leggings:
+#  Gold_Nugget:
+#  Gold_Pickaxe:
+#  Gold_Shovel:
+#  Gold_Sword:
+#  Golden_Appl:
+#  Golden_Carrot:
+#  Gray_Dye:
+#  Gunpowder:
+#  HarmingPotion:
+#  Hopper:
+#  Ink_Sack:
+#  Iron_Ax:
+#  Iron_Boots:
+#  Iron_Chestplate:
+#  Iron_Door:
+#  Iron_Helmet:
+#  Iron_Hoe:
+#  Iron_Horse Armor:
+#  Iron_Ingot:
+#  Iron_Leggings:
+#  Iron_Pickaxe:
+#  Iron_Shovel:
+#  Iron_Sword:
+#  Iron_Trapdoor:
+#  Item_Frame:
+#  Jukebox:
+#  Ladder:
+#  Lapis_Lazuli:
+#  Large_Fern:
+#  Lead:
+#  Leather:
+#  Leather_Boots:
+#  Leather_Chestplate:
+#  Leather_Helmet:
+#  Leather_Leggings:
+#  Lever:
+#  Light_Blue_Dye:
+#  Light_Gray_Dye:
+#  Lilac:
+#  Lime_Dye:
+#  Locked_Chest:
+#  Magenta_Dye:
+#  Magma_Block:
+#  Magma_Cream:
+#  Melon_(Slice):
+#  Melon_Seeds:
+#  Minecart:
+#  Minecart_(Command_Block):
+#  Minecart_(Hopper):
+#  Minecart_(Powered):
+#  Minecart_(Storage):
+#  Minecart_(TNT):
+#  Mundane_Potion:
+#  Mushroom_Stew:
+#  Name_Tag:
+#  Nether_Brick_(Item):
+#  Nether_Quartz:
+#  Nether_Star:
+#  Nether_Wart:
+#  Nether_Wart_(Block):
+#  Nether_Wart_Seeds:
+#  Note_Block:
+#  Observer:
+#  Orange_Dye:
+#  Orange_Tulip:
+#  Oxeye_Daisy:
+#  Painting:
+#  Paper:
+#  Peony:
+#  Pink_Dye:
+#  Pink_Tulip:
+#  Piston:
+#  Poisonous_Potato:
+#  Poppy:
+#  Potato:
+#  Prismarine_Crystals:
+#  Prismarine_Shard:
+#  Pumpkin_Pie:
+#  Pumpkin_Seeds:
+#  Purpur_Stairs:
+#  Purple_Dye:
+#  Quartz_Stairs:
+#  Rabbit_Hide:
+#  Rabbit_Stew:
+#  Rabbit's_Foot:
+#  Rail:
+#  Rail_(Activator):
+#  Rail_(Detector):
+#  Rail_(Powered):
+#  Raw_Beef:
+#  Raw_Chicken:
+#  Raw_Fish:
+#  Raw_Mutton:
+#  Raw_Porkchop:
+#  Raw_Rabbit:
+#  Red_Mushroom:
+#  Red_Tulip:
+#  Redstone_Comparator:
+#  Redstone_Dust:
+#  Redstone_Lamp:
+#  Redstone_Repeater:
+#  Redstone_Torch:
+#  Redstone_Wire:
+#  Rose_Bush:
+#  Rose_Red Dye:
+#  Rotten_Flesh:
+#  Saddle:
+#  Sapling_(Oak):
+#  Sea_Lantern:
+#  Shears:
+#  Shield:
+#  Shulker_Box_(Purple):
+#  Shulker_Shell:
+#  Sign:
+#  Slime_Ball:
+#  Snowball:
+#  Spawn_Egg (Pig):
+#  Spider_Eye:
+#  Steak:
+#  Stick:
+#  Sticky_Piston:
+#  Stone_Axe:
+#  Stone_Hoe:
+#  Stone_Pickaxe:
+#  Stone_Pressure_Plate:
+#  Stone_Shovel:
+#  Stone_Sword:
+#  String:
+#  Sugar:
+#  Sugar_Cane:
+#  Sunflower:
+#  TNT:
+#  Tall_Grass:
+#  Thick_Potion:
+#  Torch:
+#  Totem_of_Undying:
+#  Trapdoor:
+#  Trapped_Chest:
+#  Tripwire:
+#  Tripwire_Hook:
+#  Watch:
+#  Water_Bottle:
+#  Weighted_Pressure_Plate_(Heavy):
+#  Weighted_Pressure_Plate_(Light):
+#  Wet_Sponge:
+#  Wheat:
+#  Wheat_Seeds:
+#  White_Tulip:
+#  Wooden_Axe:
+#  Wooden_Door:
+#  Wooden_Hoe:
+#  Wooden_Pickaxe:
+#  Wooden_Pressure_Plate:
+#  Wooden_Shovel:
+#  Wooden_Sword:
+#  Workbench:
+#  Written_Book:
+# Name_Mobs:
+#  Bat:
+#  Blaze:
+#  Cat:
+#  Cave_Spider:
+#  Chicken:
+#  Cod:
+#  Cow:
+#  Creeper:
+#  Dolphin:
+#  Donkey:
+#  Drowned:
+#  Elder_Guardian:
+#  Ender_Dragon:
+#  Enderman:
+#  Endermite:
+#  Evoker:
+#  Fox:
+#  Ghast:
+#  Giant:
+#  Guardian:
+#  Horse:
+#  Husk:
+#  Illusioner:
+#  Iron_Golem:
+#  Llama:
+#  Magma_Cube:
+#  Mooshroom:
+#  Mule:
+#  Panda:
+#  Parrot:
+#  Phantom:
+#  Pig:
+#  Pillager:
+#  Polar_Bear:
+#  Puffer_Fish:
+#  Ocelot:
+#  Rabbit:
+#  Ravager:
+#  Salmon:
+#  Sheep:
+#  Shulker:
+#  Silverfish:
+#  Skeleton:
+#  Skeleton_Horse:
+#  Slime:
+#  Snow_Golem:
+#  Spider:
+#  Squid:
+#  Stray:
+#  Trader_Llama:
+#  Tropical_Fish:
+#  Turtle:
+#  Vex:
+#  Villager:
+#  Vindicator:
+#  Wandering_Trader:
+#  Witch:
+#  Wither:
+#  Wither_Skeleton:
+#  Wolf:
+#  Zombie:
+#  Zombie_Horse:
+#  Zombie_PigMan:
+#  Zombie_Villager:
+Chicken_LucKy:
+  Type: Chicken
+  Display: '$&a&l&n-<Lucky And More Lucky>- &a&l$'
+  Health: 20
+  Damage: 20
+  Armor: 1
+  Equipment:
+  LevelModifiers:
+  - FALL 0.1
+  - BLOCK_EXPLOSION 0.1
+  - ENTITY_EXPLOSION 0.1
+  Drops:
+  - LoiQuai1 1 0.9
+  - LoiQuai2 1 0.8
+  - LoiQuai3 1 0.7
+  - LoiQuai4 1 0.6
+  - LoiQuai5 1 0.5
+  - LoiQuai6 1 0.4
+  DropsPerLevel:
+  - LoiQuai1 1 0.9
+  - LoiQuai2 1 0.8
+  - LoiQuai3 1 0.7
+  - LoiQuai4 1 0.6
+  - LoiQuai5 1 0.5
+  - LoiQuai6 1 0.4
+  LevelModifiers:
+  - health 5
+  - damage 0.9
+  Messages: ' &a&l Phúc lợi !Phúc lợi đấy !Come here young Bufalo! '
+  KillMessages: ' &a&l Những con gà xã hội đã nhận được tài lộc'
+  Skills:
+  - sound{s=entity.elder_guardian.ambient} @self ~onTimer:200
+  - effect:particlesphere{particle=portal;amount=200;radius=5} @self ~onTimer:25
+  - skill{s=wiz1} @Target ~onTimer:100 0.5
+  - skill{s=wiz2} @Target ~onTimer:100 0.5
+  - skill{s=wiz3} @Target ~onTimer:100 0.5
+  Options:
+    MovementSpeed: 0.7
